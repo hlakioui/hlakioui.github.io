@@ -3998,11 +3998,11 @@ img.u-pull-left {
 @media screen and (max-width: 400px) {
     .folio-list .column {
         flex  : none;
-        width : 50%;
+        width : 100%;
     }
 
     .folio-list__item {
-        margin-bottom : 0;
+        margin-bottom : 25px;
     }
 
     .folio-list__item-link {
